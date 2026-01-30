@@ -20,18 +20,20 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 
 ### 2. Download and Execute
 1.  Locate the `PasswordGenerator.jar` file in this repository.
-2.  **To launch:** Double-click the `.jar` file.
-3.  **Alternative (Command Line):** ```bash
+2.  Download the file
+3.  **To launch:** Double-click the `.jar` file.
+4.  **Alternative (Command Line):** ```bash
     java -jar PasswordGenerator.jar
     ```
+    [!TIP] Windows Users: If double-clicking doesn't work, ensure .jar files are set to open with "OpenJDK Platform binary".
 
 ---
 
-## 💻 Source Code & Development
+## Source Code & Development
 
-The full source code is available in the **master branch**. We encourage developers and security enthusiasts to explore the implementation.
+The full source code is available in the **master branch**. I encourage developers and security enthusiasts to explore the implementation.
 
-### 🎨 Design Philosophy: Function over Form
+### Design Philosophy: Function over Form
 Please note that the Graphical User Interface (GUI) follows a **minimalist approach**. The primary focus of this project was **functionality, security, and algorithmic precision** rather than aesthetic polish. 
 
 We prioritized:
@@ -39,12 +41,12 @@ We prioritized:
 * **Secure memory handling** (preventing sensitive data leaks).
 * **Backend reliability and performance.**
 
-### 📖 Detailed Documentation
-For a deep dive into the internal logic, security protocols, and architecture of the application, please refer to the **`documentation.txt`** file included in the repository. It contains a comprehensive breakdown of how the generator operates under the hood, the libraries used (like `zxcvbn4j`), and the entropy logic.
+### Detailed Documentation
+For a deep dive into the internal logic, security protocols, and architecture of the application, please refer to the **`documentation.md`** file included in the repository. It contains a comprehensive breakdown of how the generator operates under the hood, the libraries used (like `zxcvbn4j`), and the entropy logic.
 
 ---
 
-## 🛠 Technical Highlights
+## Technical Highlights
 * **Entropy Analysis:** Integrated with the `zxcvbn4j` library for realistic strength scoring against modern dictionary attacks.
 * **Memory Safety:** Optimized to prevent sensitive data from lingering in the JVM heap unnecessarily.
 * **Open Source:** Full transparency is available on the master branch for public audit and contributions.
