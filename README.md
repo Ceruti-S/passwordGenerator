@@ -20,14 +20,15 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 
 ### 2. Download and Execute
 1.  Locate the `PasswordGenerator.jar` file in this repository.
-2.  Download the file
+2.  Download the file.
 3.  **To launch:** Double-click the `.jar` file.
 4.  **Alternative (Command Line):**
     ```bash
     java -jar PasswordGenerator.jar
     ```
 
->[!TIP] Windows Users: If double-clicking doesn't work, ensure .jar files are set to open with "OpenJDK Platform binary".
+> [!TIP]
+> **Windows Users:** If double-clicking doesn't work, ensure `.jar` files are set to open with "OpenJDK Platform binary".
 
 ---
 
@@ -35,10 +36,13 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 
 The full source code is available in the **master branch**. I encourage developers and security enthusiasts to explore the implementation.
 
+### 🇮🇹 Language Note
+Please note that parts of the source code (comments and some variable names) are written in **Italian**, as the author(me) is Italian. If you are an international developer and find some parts unclear, please refer to the **`documentation.md`** file, which provides a full explanation of the logic in English.
+
 ### Design Philosophy: Function over Form
 Please note that the Graphical User Interface (GUI) follows a **minimalist approach**. The primary focus of this project was **functionality, security, and algorithmic precision** rather than aesthetic polish. 
 
-We prioritized:
+I prioritized:
 * **Real-time entropy calculation.**
 * **Secure memory handling** (preventing sensitive data leaks).
 * **Backend reliability and performance.**
