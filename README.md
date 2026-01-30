@@ -19,7 +19,7 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 * **Note:** If you don't have version **25** or higher, please download it from [Oracle's Official Website](https://www.oracle.com/java/technologies/downloads/).
 
 ### 2. Download and Execute
-1.  **Download the latest version:** Go to the [Releases](https://github.com/IL_TUO_USER/IL_TUO_REPO/releases/latest) page and download `PasswordGenerator.jar`.
+1.  **Download the latest version:** Go to the [Releases](https://github.com/Ceruti-S/passwordGenerator/releases/tag/v1.0.0) page and download `PasswordGenerator.jar`.
 2.  **To launch:** Double-click the `.jar` file.
 3.  **Alternative (Command Line):**
     ```bash
