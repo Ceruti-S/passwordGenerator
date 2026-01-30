@@ -28,3 +28,19 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+gen/
+
+# Maven
+target/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Executables
+*.jar
