@@ -1,4 +1,3 @@
-# passwordGenerator
 # Password Generator
 
 A robust Java-based security tool focused on generating high-entropy passwords with professional-grade strength analysis.
