@@ -25,7 +25,6 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 4.  **Alternative (Command Line):** ```bash
     java -jar PasswordGenerator.jar
     ```
-    [!TIP] Windows Users: If double-clicking doesn't work, ensure .jar files are set to open with "OpenJDK Platform binary".
 
 ---
 
