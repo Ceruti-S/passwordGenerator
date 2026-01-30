@@ -21,9 +21,10 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 
 ### 2. Download and Execute
 1.  Locate the `PasswordGenerator.jar` file in this repository.
-2.  **To launch:** Double-click the `.jar` file.
-3.  **Alternative (Command Line):**
-4.  ```bash
+2.  Download the file
+3.  **To launch:** Double-click the `.jar` file.
+4.  **Alternative (Command Line):**
+    ```bash
     java -jar PasswordGenerator.jar
     ```
 
