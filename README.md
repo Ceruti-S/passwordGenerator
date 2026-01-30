@@ -54,4 +54,13 @@ For a deep dive into the internal logic, security protocols, and architecture of
 * **Open Source:** Full transparency is available on the master branch for public audit and contributions.
 
 ---
+
+## License & Ethics
+This project is licensed under the **GNU General Public License v3.0**. 
+
+**Personal Note:** While the license allows many uses, this software was created for educational and security purposes. **Commercial use or redistribution for profit is strongly discouraged** as a matter of respect for the author's work.
+
+**Disclaimer:** The software is provided **"as is"**, without warranty of any kind, express or implied. The author shall not be liable for any claim, damages, or other liability. However, if you have any ideas, bug reports, or improvements, **suggestions are more than welcome!** Feel free to open an issue or a pull request.
+
+---
 *Developed with a focus on security and performance.*
