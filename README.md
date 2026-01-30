@@ -16,13 +16,12 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
     ```bash
     java -version
     ```
-* **Note:** If you don't have version **25** or higher, or if the command is not recognized, please download it from [Oracle's Official Website](https://www.oracle.com/java/technologies/downloads/).
+* **Note:** If you don't have version **25** or higher, please download it from [Oracle's Official Website](https://www.oracle.com/java/technologies/downloads/).
 
 ### 2. Download and Execute
-1.  Locate the `PasswordGenerator.jar` file in this repository.
-2.  Download the file.
-3.  **To launch:** Double-click the `.jar` file.
-4.  **Alternative (Command Line):**
+1.  **Download the latest version:** Go to the [Releases](https://github.com/IL_TUO_USER/IL_TUO_REPO/releases/latest) page and download `PasswordGenerator.jar`.
+2.  **To launch:** Double-click the `.jar` file.
+3.  **Alternative (Command Line):**
     ```bash
     java -jar PasswordGenerator.jar
     ```
