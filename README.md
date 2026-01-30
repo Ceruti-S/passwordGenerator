@@ -35,7 +35,7 @@ This application is built with **Java 25**. You must have the Java Runtime Envir
 
 The full source code is available in the **master branch**. I encourage developers and security enthusiasts to explore the implementation.
 
-### 🇮🇹 Language Note
+### Language Note
 Please note that parts of the source code (comments and some variable names) are written in **Italian**, as the author(me) is Italian. If you are an international developer and find some parts unclear, please refer to the **`documentation.md`** file, which provides a full explanation of the logic in English.
 
 ### Design Philosophy: Function over Form
